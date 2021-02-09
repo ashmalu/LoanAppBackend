@@ -1,0 +1,1 @@
+insert into loan_details(LOANNUMBER,LOANAMOUNT,LOANTERM,LOANTYPE,ADDRESS,FIRSTNAME,LASTNAME) values(1,1234,2,'home','mandla','samaira','baronia');
